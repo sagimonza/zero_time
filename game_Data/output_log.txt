@@ -1,0 +1,48 @@
+Mono path[0] = 'C:/personal/first_game/first_client/New Unity Project/game_Data/Managed'
+Mono path[1] = 'C:/personal/first_game/first_client/New Unity Project/game_Data/Mono'
+Mono config path = 'C:/personal/first_game/first_client/New Unity Project/game_Data/Mono/etc'
+PlayerConnection initialized from C:/personal/first_game/first_client/New Unity Project/game_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55012
+Multi-casting "[IP] 192.168.56.1 [Port] 55012 [Flags] 2 [Guid] 2983010839 [EditorId] 876132231 [Version] 1048832 [Id] WindowsPlayer(sagi-pc) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.56.1:55012]
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8690M (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2036 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.303 seconds
+Platform assembly: C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\personal\first_game\first_client\New Unity Project\game_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on StartOptions
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 375)
+
+OnLevelWasLoaded was found on EventSystemChecker
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 375)
+
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.835602 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3554 -> priority: 1 
